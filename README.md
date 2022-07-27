@@ -5,15 +5,15 @@ This use case takes HR data and uses machine learning models to predict what emp
 
 The steps we will go through are:
 
-Importing libraries
-Data exploration
-Data cleaning
-Splitting data (train test split)
-Model development applying 6-ML algorithms
-Logistic Regression
-Decision tree
-KNN
-SVM
-Random Forest
-Naive Bayes
-Saving model
+Importing libraries, 
+Data exploration,
+Data cleaning, 
+Splitting data (train test split), 
+Model development applying 6-ML algorithms, 
+Logistic Regression, 
+Decision tree, 
+KNN, 
+SVM, 
+Random Forest, 
+Naive Bayes, 
+Saving model, 
